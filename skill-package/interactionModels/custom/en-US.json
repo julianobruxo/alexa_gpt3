@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "mister know it all",
+      "invocationName": "advanced mode",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
